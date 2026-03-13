@@ -1,0 +1,32 @@
+{
+  "project_title": "EU Wetgeving",
+  "lang": "NL",
+  "output_dir": "./docs",
+
+  "regulations": [
+    {
+      "celex": "32016R0679",
+      "short_title": "AVG / GDPR",
+      "slug": "avg-gdpr",
+      "description": "Algemene Verordening Gegevensbescherming"
+    },
+    {
+      "celex": "32024R1689",
+      "short_title": "AI Act",
+      "slug": "ai-act",
+      "description": "Verordening betreffende artificiële intelligentie"
+    },
+    {
+      "celex": "32022R2065",
+      "short_title": "DSA",
+      "slug": "dsa",
+      "description": "Digital Services Act — Verordening digitale diensten"
+    },
+    {
+      "celex": "32022R1925",
+      "short_title": "DMA",
+      "slug": "dma",
+      "description": "Digital Markets Act — Verordening digitale markten"
+    }
+  ]
+}
